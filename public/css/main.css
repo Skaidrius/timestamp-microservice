@@ -51,7 +51,6 @@ header p {
 header a ~ p {
 	margin: 0;
 	padding: 0;
-	display: inline;
 	color: #ECEFF1;
 }
 
