@@ -1,6 +1,6 @@
 {
-  "name": "timestamp-ms",
-  "version": "0.0.1",
+  "name": "timestamp-microservice",
+  "version": "0.0.2",
   "description": "Timestamp Microservice - FCC challenge",
   "main": "server.js",
   "repository": {
@@ -20,7 +20,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "@skaidrius",
+  "author": "skaidrius",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^1.2.0",
