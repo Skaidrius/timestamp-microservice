@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 var routes = require('./app/routes/index.js');
 var api = require('./app/api/timestamp.js');
 
-require('dotenv').load();
+//require('dotenv').load();
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());

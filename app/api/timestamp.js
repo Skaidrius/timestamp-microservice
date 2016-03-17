@@ -33,6 +33,4 @@ module.exports = function(app) {
         return moment.unix(unix).format("MMMM D, YYYY");
     }
     
-    
-    
 };
