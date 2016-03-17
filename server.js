@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 app.use('/public', express.static(process.cwd() + '/public'));
 
 routes(app);
-//api(app);
+api(app);
 
 
 app.listen(port,  function () {
