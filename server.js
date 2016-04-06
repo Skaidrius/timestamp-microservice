@@ -17,6 +17,7 @@ routes(app);
 api(app);
 
 
-app.listen(port,  function () {
-	console.log('Node.js listening on port ' + port + '...');
-});
+app.listen(port)
+// app.listen(port,  function () {
+// 	console.log('Node.js listening on port ' + port + '...');
+// });
