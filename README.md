@@ -7,9 +7,9 @@
 3) If it does not contain a date or Unix timestamp, it returns null for those properties.
 
 ### Example usage:
-https://timestamp-skaidrius.herokuapp.com/December%2015,%202015 
+https://timestamp-microservice-skaidrius.c9users.io/December%2015,%202015 
 
-https://timestamp-skaidrius.herokuapp.com/1450137600
+https://timestamp-microservice-skaidrius.c9users.io/1450137600
 
 ### Example output:
 ```
