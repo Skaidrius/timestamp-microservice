@@ -1,0 +1,25 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "FCC project",
+  "main": "index.js",
+  "readme": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skaidrius/timestamp-microservice.git"
+  },
+  "author": "Skaidrius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skaidrius/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/Skaidrius/timestamp-microservice#readme",
+  "keywords": [
+    "fcc",
+    "timestamp",
+    "microservice"
+  ]
+}
