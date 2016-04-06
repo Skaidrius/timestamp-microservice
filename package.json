@@ -1,6 +1,6 @@
 {
   "name": "timestamp-microservice",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Timestamp Microservice - FCC challenge",
   "main": "server.js",
   "repository": {
